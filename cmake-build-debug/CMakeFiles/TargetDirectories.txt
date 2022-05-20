@@ -1,0 +1,3 @@
+C:/Users/PC/CLionProjects/CS8_SFML_Final_LogoMaker/cmake-build-debug/CMakeFiles/LogoMaker.dir
+C:/Users/PC/CLionProjects/CS8_SFML_Final_LogoMaker/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC/CLionProjects/CS8_SFML_Final_LogoMaker/cmake-build-debug/CMakeFiles/rebuild_cache.dir
